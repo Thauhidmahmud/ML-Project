@@ -32,7 +32,7 @@ f"{project_name}/utils/main_utils.py",
 "demo.py",
 "config/model.yaml",
 "config/schema.yaml",
-"test.py"
+
 
 ]
 
